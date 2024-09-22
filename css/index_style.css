@@ -92,4 +92,21 @@
     justify-content: flex-end;
 }
 
-.pop_up_color_window_top_div_input_night_color
+.pop_up_color_window_top_div_night_team_tumblere {
+	width: 15vw;
+	height: 5vw;
+	background-color: white;
+	border: 2px solid black;
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+}
+
+.pop_up_color_window_top_div_night_team_tumblere_cycle {
+	width: 4vw;
+	height: 4vw;
+	border: 2px solid black;
+	border-radius: 100%;
+	background-color: gray;
+	margin: 3px;
+}
